@@ -20,7 +20,7 @@ My name is Andrey, I am a backend software engineer. I am from Russia, live in S
 - 🎓 I study at Bonch-Bruevich SPBSUT
 - 🌱 Diving into Go, Microservices, and Backend Infrastructure
 - 💪🏼 I go in for sports
-- 🚀 I dream of becoming part of a strong backend tea
+- 🚀 I dream of becoming part of a strong backend team
 
 ---
 
