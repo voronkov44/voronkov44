@@ -10,8 +10,10 @@ My name is Andrey, I am a backend software engineer. I am from Russia, live in S
 ![](https://img.shields.io/badge/REST_API-informational?style=flat-square&logo=OpenAPI%20Initiative&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/GORM-informational?style=flat-square&logo=go&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Minio-informational?style=flat-square&logo=minio&logoColor=white&color=5194f0&bgcolor=110d17)
 
 ---
 
