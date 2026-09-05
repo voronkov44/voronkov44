@@ -1,28 +1,30 @@
 ## <img src="https://raw.githubusercontent.com/ythosa/ythosa/main/wave.gif" width="25"> Hi there! 
 
 
-My name is Andrey, I am a backend software engineer. I am from Russia, live in Saint Petersburg and currently study at [Saint Petersburg University of Telecommunications](https://www.sut.ru/)
+My name is Andrew. I am a backend software engineer from Saint Petersburg, Russia, and currently a student at [ITMO University](https://itmo.ru/)
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Go-informational?style=flat-square&logo=Go&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/REST_API-informational?style=flat-square&logo=OpenAPI%20Initiative&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/GORM-informational?style=flat-square&logo=go&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Minio-informational?style=flat-square&logo=minio&logoColor=white&color=5194f0&bgcolor=110d17)
+![Go](https://img.shields.io/badge/Go-informational?style=flat-square&logo=go&logoColor=white&color=5194f0)
+![Linux](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=5194f0)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=5194f0)
+![gRPC](https://img.shields.io/badge/gRPC-informational?style=flat-square&logo=google&logoColor=white&color=5194f0)
+![NATS](https://img.shields.io/badge/NATS-informational?style=flat-square&logo=natsdotio&logoColor=white&color=5194f0)
+![REST API](https://img.shields.io/badge/REST_API-informational?style=flat-square&logo=openapiinitiative&logoColor=white&color=5194f0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=5194f0)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0)
+![MinIO](https://img.shields.io/badge/MinIO-informational?style=flat-square&logo=minio&logoColor=white&color=5194f0)
 
 ---
 
-### 📌 about myself
+### 📌 About Me
 
-- 🎓 I study at Bonch-Bruevich SPBSUT
-- 🌱 Diving into Go, Microservices, and Backend Infrastructure
-- 💪🏼 I go in for sports
-- 🚀 I dream of becoming part of a strong backend team
+- 🎓 Student at ITMO University
+- ⚙️  Backend Software Engineer
+- 🌱 Interested in Go, distributed systems, and cloud-native infrastructure
+- 💪🏼 Into sports
 
 ---
 
