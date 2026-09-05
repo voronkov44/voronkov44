@@ -31,8 +31,8 @@ My name is Andrey, I am a backend software engineer. I am from Russia, live in S
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=voronkov44&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voronkov44&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-f1lzz.vercel.app/api?username=voronkov44&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-f1lzz.vercel.app/api/top-langs/?username=voronkov44&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
